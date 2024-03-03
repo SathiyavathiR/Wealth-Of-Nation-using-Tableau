@@ -30,3 +30,19 @@ Accessibility matters! Rest assured, all our visuals are meticulously designed w
 Dependencies 🛒
 Microsoft Excel: Your trusty companion for data preparation, cleaning, and initial visualization.
 Tableau: Your gateway to advanced data analysis and creation of interactive visualizations.
+
+![Screenshot 2024-03-03 164614](https://github.com/SathiyavathiR/Wealth-Of-Nation-using-Tableau/assets/107551488/3091d192-69e3-4499-bd9b-9a12f6dc898b)
+
+![Screenshot 2024-03-03 164936](https://github.com/SathiyavathiR/Wealth-Of-Nation-using-Tableau/assets/107551488/47fb6bcf-5351-413b-9933-6d6d503eefcf)
+
+![Screenshot 2024-03-03 165121](https://github.com/SathiyavathiR/Wealth-Of-Nation-using-Tableau/assets/107551488/e9e230fc-dc2d-42ce-a95d-8be4d0337e21)
+
+![Screenshot 2024-03-03 165325](https://github.com/SathiyavathiR/Wealth-Of-Nation-using-Tableau/assets/107551488/f30c6dd5-cbb6-41ef-9d65-9e43dfbbf617)
+
+[Click Here to view Tableau Dashboard](https://public.tableau.com/shared/XB5S3F2F5?:display_count=n&:origin=viz_share_link)
+
+
+
+
+
+
