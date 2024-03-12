@@ -16,7 +16,7 @@ Discover the world's economic landscape with our four main visualizations:
 1. **Top 20 Countries by Life Expectancy at Birth**: Gain insights into healthcare and quality of life.
 2. **Top 20 Countries by GDP Per Capita**: Explore economic prosperity and standard of living.
 3. **Top 20 Countries by Smart Users**: Dive into technological adoption and connectivity.
-4. **Top 20 Countries by GDP Ranking**: Unveil economic strength and global influence.
+4. **Top 20 Countries by based on smart phone users and their GDP in map view**: Unveil economic strength and global influence.
 
 ## Color Blind Requirements 🎨
 Accessibility matters! Rest assured, all our visuals are meticulously designed with color blind requirements in mind. Our color choices ensure readability and accessibility for all users.
