@@ -37,7 +37,7 @@ Tableau: Your gateway to advanced data analysis and creation of interactive visu
 
 ![Screenshot 2024-03-03 165121](https://github.com/SathiyavathiR/Wealth-Of-Nation-using-Tableau/assets/107551488/e9e230fc-dc2d-42ce-a95d-8be4d0337e21)
 
-![Screenshot 2024-03-03 165325](https://github.com/SathiyavathiR/Wealth-Of-Nation-using-Tableau/assets/107551488/f30c6dd5-cbb6-41ef-9d65-9e43dfbbf617)
+![Screenshotnew 2024-03-12 113856](https://github.com/SathiyavathiR/Wealth-Of-Nation-using-Tableau/assets/107551488/0fab2221-66e0-470f-be80-a30876253d4c)
 
 [Click Here to view Tableau Dashboard](https://public.tableau.com/shared/XB5S3F2F5?:display_count=n&:origin=viz_share_link)
 
